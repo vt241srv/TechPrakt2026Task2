@@ -1,4 +1,4 @@
 body { font-family: Arial, sans-serif; background-color: #f4f4f9; margin: 0; padding: 20px; }
-h1 { text-align: center; color: #333; }
+h1 { text-align: center; color: #444; }
 .news-item { background: #fff; padding: 15px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
-.news-item h2 { margin-top: 0; color: #0056b3; }
+.news-item h2 { margin-top: 0; color: #0b0000; }
